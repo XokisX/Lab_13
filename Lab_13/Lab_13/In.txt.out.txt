@@ -1,0 +1,1 @@
+Цепочка start send show show wait wait stop распознана

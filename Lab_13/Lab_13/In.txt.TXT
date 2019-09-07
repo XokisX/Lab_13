@@ -1,0 +1,1 @@
+start send show show wait wait stop
