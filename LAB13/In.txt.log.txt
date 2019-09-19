@@ -1,0 +1,14 @@
+Текст без ошибок 
+------ Протокол ----- Дата: 1:37:18 20.09.2019 ----------
+------ Параметры ----------
+-log: D:\Labs\2\LP\ANALIZATOR\LAB13\LAB13\In.txt.log.txt
+-out: D:\Labs\2\LP\ANALIZATOR\LAB13\LAB13\In.txt.out.txt
+-in: D:\Labs\2\LP\ANALIZATOR\LAB13\LAB13\In.txt.txt
+------ Исходные данные ----------
+--------Текст----------
+___________
+start send show wait wait stop
+___________
+Кол-во символов: 30
+Проигнорированно: 0
+Строк: 0
